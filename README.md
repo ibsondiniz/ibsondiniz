@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá, eu sou o Ibson Diniz 👋
 
-<!--
-**ibsondiniz/ibsondiniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Moro em Mossoró/RN e estou em transição para desenvolvimento de software e IA. Procuro uma vaga de entrada em desenvolvimento Python, automação ou IA aplicada.
 
-Here are some ideas to get you started:
+- Estudo Python, Git e agentes de IA na Asimov Academy desde 09/2026: 119 h em 22 cursos e 3 trilhas.
+- Nos estudos e projetos uso Python, Flask, SQLAlchemy, pytest, Git e Docker Compose, além de Claude Code e agentes de IA (GPT, Hermes Agent, OpenClaw).
+- Antes da área de software, fui auxiliar de sistemas numa empresa de ERP em nuvem e auxiliar técnico em calibração de instrumentos num laboratório acreditado ISO/IEC 17025. Sou técnico em Eletrotécnica.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projetos
+
+- [tasks-flask-crud](https://github.com/ibsondiniz/tasks-flask-crud): API REST de tarefas (CRUD) em Flask, com testes em pytest.
+- [sample-flask-auth](https://github.com/ibsondiniz/sample-flask-auth): API de usuários com login (Flask-Login), senhas com bcrypt, permissões por papel e MySQL em Docker Compose.
+
+### Contato
+
+[LinkedIn](https://www.linkedin.com/in/ibsondiniz) · ibsonxd@gmail.com
